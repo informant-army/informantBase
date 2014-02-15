@@ -58,7 +58,8 @@ Algumas entidades foram criadas para exemplificar o uso, lembre-se de excluí-la
 * **Excluir ExemploJob.groovy..**
   
 ----------------------------------------------------------------
-UmPoucoDeSoftware.tumblr.com
 
+
+(UmPoucoDeSoftware.tumblr.com)
 "Não é só bater na porta certa, mas bater até abrir" - Guy Falks
 ----------------------------------------------------------------
