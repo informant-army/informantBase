@@ -65,5 +65,4 @@ Algumas entidades foram criadas para exemplificar o uso, lembre-se de excluí-la
 
 
 http://www.UmPoucoDeSoftware.tumblr.com
-"Não é só bater na porta certa, mas bater até abrir" - Guy Falks
-----------------------------------------------------------------
+Não é só bater na porta certa, mas bater até abrir - Guy Falks
