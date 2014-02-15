@@ -3,7 +3,7 @@ informantBase
 
 Estrutura de projeto utilizando Grails 2.3.4 para suportar versão WEB e API JSON (Geralmente utilizada em Aplicativos Android\iOS) com dominio compartilhado.
 
-Esta estrutura de projeto permite por exemplo que API e SITE estajam em diferentes servidores e ao mesmo tempo compatilhem de um mesmo dominio, evitando duplicação de código.
+Esta estrutura de projeto permite por exemplo que API e SITE estejam em diferentes servidores e ao mesmo tempo compatilhem de um mesmo dominio, evitando duplicação de código.
 
 * **domain-plugin** Dominio (domain,service) compartilhado por API e SITE
 * **api** (controllers,views)
