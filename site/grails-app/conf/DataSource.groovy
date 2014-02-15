@@ -70,7 +70,7 @@ environments {
             dbCreate = "update"
             url="jdbc:mysql://ip_producao:3306/informant_prod?autoReconnect=true&maxReconnects=10"
             username = "usuario"
-            password = "M4st3rC4rd3mpr33nd3d0r@2013"
+            password = "XXX"
             properties { 
                 maxActive = 50 
                 maxIdle = 25 
